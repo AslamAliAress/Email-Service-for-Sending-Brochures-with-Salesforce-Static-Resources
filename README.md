@@ -1,3 +1,15 @@
+# Use ![image](https://github.com/user-attachments/assets/8fff1e20-95ca-4ea6-ae66-15e9aa59f48d)
+
+![image](https://github.com/user-attachments/assets/edb76d96-9c76-49f6-ab1b-ecd05cbe6e33)
+
+# Using SweetAlert in LWC
+
+- Install SweetAlert:
+
+- Include the SweetAlert library in your LWC. Use the CDN link(https://cdnjs.com/libraries/sweetalert) to include SweetAlert in your component: 
+
+![image](https://github.com/user-attachments/assets/fbc6004e-4b06-461e-af26-d0cc02027f40)
+
 # Setup
 
 1. Custom Object Setup:
