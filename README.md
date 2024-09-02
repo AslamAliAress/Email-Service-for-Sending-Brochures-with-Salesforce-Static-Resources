@@ -1,4 +1,4 @@
-# Use ![image](https://github.com/user-attachments/assets/8fff1e20-95ca-4ea6-ae66-15e9aa59f48d)
+# Use  sweetalert.js in LWC                                                                                                ![image](https://github.com/user-attachments/assets/8fff1e20-95ca-4ea6-ae66-15e9aa59f48d)
 
 ![image](https://github.com/user-attachments/assets/edb76d96-9c76-49f6-ab1b-ecd05cbe6e33)
 
